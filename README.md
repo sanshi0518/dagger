@@ -1,7 +1,7 @@
 ## dagger
 ======
 
-A collection of configuration files generators based on [Selmer](https://github.com/yogthos/Selmer), such as logstash.
+A collection of configuration file generators based on [Selmer](https://github.com/yogthos/Selmer), such as logstash.
 
 
 ## Usage
